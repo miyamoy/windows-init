@@ -22,6 +22,3 @@ winget install --id Armin2208.WindowsAutoNightMode --source winget
 
 # Rancher Desktop
 winget install --id suse.RancherDesktop --source winget
-
-# Lenovo Vantage
-winget install --id 9WZDNCRFJ4MV --source msstore
