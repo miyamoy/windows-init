@@ -22,3 +22,6 @@ winget install --id Armin2208.WindowsAutoNightMode --source winget
 
 # Rancher Desktop
 winget install --id suse.RancherDesktop --source winget
+
+# Notion
+winget install --id Notion.Notion --source winget
