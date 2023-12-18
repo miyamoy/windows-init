@@ -7,6 +7,7 @@
 MinGWというWindows用のC++コンパイラを利用するのが良さそう。  
 MinGWはGNU Compiler Collection (GCC) のWindows版で、CやC++などのコードをコンパイルするためのツールセットを提供する。  
 wingetで管理できないので不便そうに感じたので、MicrosoftのVisual Studioに付属するMSVC (Microsoft Visual C++) を利用することにした。  
+参考: [Configure Visual Studio Code for Microsoft C++](https://code.visualstudio.com/docs/cpp/config-msvc)
 
 ## Microsoft Visual C++
 ### Visual Studio BuildTools
