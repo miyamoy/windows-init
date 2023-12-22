@@ -25,3 +25,6 @@ winget install --id suse.RancherDesktop --source winget
 
 # Notion
 winget install --id Notion.Notion --source winget
+
+# Obsidian
+winget install --id Obsidian.Obsidian --source winget
