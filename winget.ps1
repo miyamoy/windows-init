@@ -28,3 +28,6 @@ winget install --id Notion.Notion --source winget
 
 # Obsidian
 winget install --id Obsidian.Obsidian --source winget
+
+# Google Japanese IME
+winget install --id Google.JapaneseIME --source winget
