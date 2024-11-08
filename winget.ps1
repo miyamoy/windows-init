@@ -31,3 +31,6 @@ winget install --id Obsidian.Obsidian --source winget
 
 # Google Japanese IME
 winget install --id Google.JapaneseIME --source winget
+
+# AWS CLI
+winget install --id "Amazon.AWSCLI" --source winget
